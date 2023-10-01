@@ -1,0 +1,14 @@
+body{
+    background-color: lightcyan;
+}
+
+.image{
+    border-radius: 20px;
+    height: 500px;
+    width: 500px;
+}
+
+.img-container{
+    display: flex;
+    justify-content: center;
+}
